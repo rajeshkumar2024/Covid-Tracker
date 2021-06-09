@@ -18,6 +18,6 @@ A covid tracking website which tracks covid cased in India as well as other coun
 ## Features
 
 - Updates regularly.
-- State wise data of India.
+- State wise data for India.
 
   
